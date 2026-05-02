@@ -1,4 +1,4 @@
-import pyjokes
+import pyjoke
 
 # print("Printing Jokes...")
 
